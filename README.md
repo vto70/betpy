@@ -1,0 +1,2 @@
+# betpy
+Python betting
